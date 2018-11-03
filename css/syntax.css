@@ -1,7 +1,12 @@
-#header p{
-    text-transform: 
+#header h1{
+    color: chartreuse;
+    
 }
 
-body >p{
-    text-transform: uppercase;
+#header h2{
+    color: #537328;
+}
+
+#header{
+    background-color: yellow;
 }
