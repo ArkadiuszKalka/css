@@ -1,15 +1,5 @@
-article{
-    font-size: 16px;
-}
-
-h2{
-    font-size: 4em;
+article p, article h2{
     
-    
-}
-
-p{
-    font-size: 50%;
-    
+    font-family: arial, helvetic, sans-serif;
     
 }
