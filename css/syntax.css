@@ -1,28 +1,7 @@
-span[class~="deck"]{
-    
-    color: purple;
+a:hover{
+    color: red;
 }
 
-div[id]{
-    
+#main-content:hover{
     background-color: yellow;
-}
-
-a[title]{
-    
-    color: green;
-}
-
-a[title="Search engine"]{
-    
-    color: orange;
-}
-
-a[href$="pdf"]{
-    
-    color:aqua;
-}
-
-a[href^="http"]{
-    color:darkmagenta;
 }
