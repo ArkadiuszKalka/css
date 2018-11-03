@@ -1,9 +1,14 @@
-article p:first-of-type{
+li:nth-child(1), li:nth-child(7){
     
-    color: red;
+    font-weight: bold;
 }
 
-article p:last-of-type{
+li:nth-child(even){
     
-    color: yellow;
+    background-color: yellow;
+}
+
+li:nth-child(odd){
+    
+    background-color: green;
 }
