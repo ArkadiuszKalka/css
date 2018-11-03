@@ -1,9 +1,9 @@
-article p:first-child{
+article p:first-of-type{
     
     color: red;
 }
 
-article p:last-child{
+article p:last-of-type{
     
     color: yellow;
 }
