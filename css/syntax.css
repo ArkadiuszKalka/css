@@ -1,12 +1,11 @@
-#header h1{
-    color: chartreuse;
-    
+a{
+    color: crimson;
+    text-decoration: none;
+    font-weight: bold;
 }
 
-#header h2{
-    color: #537328;
-}
-
-#header{
-    background-color: yellow;
+a:hover{
+    color:aqua;
+    text-decoration: underline;
+    background: red;
 }
