@@ -1,32 +1,29 @@
 /***************************************
 *
-* Piersze kroki w CSS 
+* Piersze kroki w CSS czy 3
 *
 * Arkadiusz Kałka
 *
 ***************************************/
 
+/* Ustawienie wielkosci czcionki dla h2 na 24px */
 
+h2{
+    font-size: 24px;
+}
 
-p{
-    font-size: 12px;
+/* Dla taga o id content-header ustawiamy inna wielkosc czcionki  nadpisano wartosc z h2 na 18px */
+
+#content-header{
+    font-size: 18px;
     color: red;
 }
 
-a{
-    text-decoration: underline;
-    color: blue;    
-}
-
 span{
-    text-transform: uppercase;
-    }
-
-h1{
-    font-size: 32px;
+    display: block;
+    color: blue;
 }
 
-div{
-    width: 100%;
-    background-color: grey;
+.deck{
+    color: red;
 }
