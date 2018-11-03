@@ -1,19 +1,9 @@
+p{
+    color: black !important;
+    
+}
+
 #main-content p{
     color: red;
-    
-}
-
-p{
-    color: black;
-    
-}
-
-.test{
-    color: yellow;
-    
-}
-
-strong{
-    color: brown;
     
 }
