@@ -1,14 +1,4 @@
-li:nth-child(1), li:nth-child(7){
+article:nth-of-type(odd){
     
-    font-weight: bold;
-}
-
-li:nth-child(even){
-    
-    background-color: yellow;
-}
-
-li:nth-child(odd){
-    
-    background-color: green;
+    background-color: red;
 }
