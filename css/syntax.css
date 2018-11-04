@@ -1,11 +1,13 @@
 .banner{
     width: 900px;
     height: 100px;
-    background-color: #606060;
-    background: url(https://www.thenetninja.co.uk/img/global/small-logo.png), url(https://www.thenetninja.co.uk/img/homepage/banner.png);
+    /*background-color: #606060;*/
+    background-color: rgb(255, 255, 00);
+    
+    /*background: url(https://www.thenetninja.co.uk/img/global/small-logo.png), url(https://www.thenetninja.co.uk/img/homepage/banner.png);
     background-repeat: no-repeat, no-repeat;
     background-position: center, top left;
     background-size: 200px, 100%;
-    
+    */
 }
 
