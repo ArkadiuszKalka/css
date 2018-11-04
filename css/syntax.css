@@ -1,33 +1,23 @@
-.circle{
-    width: 400px;
-    height: 400px;
-    background-color: rgba(200, 100, 100, 0.4);
-    position: absolute;
-    border-radius: 200px;
-    top: 50px;
-    left: 50px;
+.button{
+    display: block;
+    width: 100px;
+    padding: 12px;
+    border: 1px solid red;
+    font-family: arial;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 14px;
     text-align: center;
+    border-radius: 4px;
+    background: #aadddd;
+    background: -moz-linear-gradient(top, #aaddddd 0%, #77aaaa 100%);
+    background: -webkit-linear-gradient(top, #aaddddd 0%, #77aaaa 100%);
+    background: linear-gradient(top, #aaddddd 0%, #77aaaa 100%);
+    
 }
 
-.circle-2{
-    width: 400px;
-    height: 400px;
-    background-color: rgb(200, 200, 100);
-    position: absolute;
-    border-radius: 200px;
-    top: 250px;
-    left: 150px;
-    opacity: 0.4;
-    text-align: center;
-}
-.circle-3{
-    width: 400px;
-    height: 400px;
-    background-color: rgb(200, 100, 200);
-    position: absolute;
-    border-radius: 200px;
-    top: 50px;
-    left: 250px;
-    opacity: 0.2;
-    text-align: center;
+.button:hover{
+    background: #dddddd;
+    
 }
