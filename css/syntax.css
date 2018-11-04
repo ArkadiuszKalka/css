@@ -1,11 +1,9 @@
 .static-width{
     width: 100px;
     height: 100px;
+    background: url(https://www.codecademy.com/webpack/847a0418af3a85a6b3e427923a3c9c10.svg) no-repeat top center;
     background-color: #606060;
-    background-image: url(https://www.codecademy.com/webpack/847a0418af3a85a6b3e427923a3c9c10.svg);
-    background-repeat: no-repeat;    
-    background-position: center;
-    background-size: 70px;
+    background-size: 200px;
 
 }
 
