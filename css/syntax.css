@@ -1,9 +1,11 @@
-.static-width{
-    width: 100px;
+.banner{
+    width: 900px;
     height: 100px;
-    background: url(https://www.codecademy.com/webpack/847a0418af3a85a6b3e427923a3c9c10.svg) no-repeat top center;
     background-color: #606060;
-    background-size: 200px;
-
+    background: url(https://www.thenetninja.co.uk/img/global/small-logo.png), url(https://www.thenetninja.co.uk/img/homepage/banner.png);
+    background-repeat: no-repeat, no-repeat;
+    background-position: center, top left;
+    background-size: 200px, 100%;
+    
 }
 
