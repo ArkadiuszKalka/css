@@ -1,47 +1,24 @@
-.box{
-    padding: 20px;
-    margin: 20px;
-    float: left;
-    border-top: 10px solid red;
+.main-content div{
+    background-color: red;
+    margin: 0 0 20px  0;
+    
     
 }
 
-.dashed{
-    border: 3px dashed red;
+.static-width{
+    width: 50px;
+    height: 50px;
     
 }
 
-.dotted{
-    border: 3px dotted blue;
-    
+.percentage-width{
+    width: 30%;
+    height: 10%;
+        
 }
 
-.double{
-    border: 3px double green;
+.inline-block{
     
-    }
-
-.groove{
-    border: 3px groove orange;
-    
-}
-
-.inset{
-    border: 3px inset black;
-    
-}
-
-.outset{
-    border: 3px outset grey;
-    
-}
-
-.ridge{
-    border: 3px ridge yellow;
-    
-}
-
-.solid{
-    border: 3px solid red;
-    
+    width: 40%;
+    display: inline-block;
 }
