@@ -1,28 +1,11 @@
-.main-content div{
-    background-color: red;
-    margin: 0 0 20px  0;
-    
-    
-    
-}
-
 .static-width{
-    width: 500px;
-    height: 50px;
-    border-radius: 10px 20px 30px 10px;
-    
-}
-
-.percentage-width{
-    width: 30%;
-    height: 10%;
-        
-}
-
-.inline-block{
-    
     width: 100px;
     height: 100px;
-    border-radius: 50px;
-    display: inline-block;
+    background-color: #606060;
+    background-image: url(https://www.codecademy.com/webpack/847a0418af3a85a6b3e427923a3c9c10.svg);
+    background-repeat: no-repeat;    
+    background-position: center;
+    background-size: 70px;
+
 }
+
